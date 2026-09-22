@@ -27,11 +27,14 @@ Redis · Celery · Docker · GitHub Actions · React · TypeScript
 
 ## Featured Work
 
-### RepoPilot AI
-Production-oriented AI codebase engineering platform.
+### [RepoPilot AI](https://github.com/saleh-mmr/repopilot-ai)
+Production-oriented AI codebase assistant with repository indexing, hybrid retrieval,
+grounded Q&A, and agentic software-engineering workflows.
 
-### Voice Notes AI
-Local speech-to-text and LLM-powered transcription application.
+### [Voice Notes AI](https://github.com/saleh-mmr/voice-notes-ai)
+Privacy-focused local AI application combining Whisper speech recognition with
+LLM-powered text cleanup through a FastAPI + React stack.
 
-### Learning from Disagreement
-Transformer-based multilingual NLP system for learning from annotator disagreement.
+### [Learning from Disagreement](https://github.com/saleh-mmr/disagreement-aware-sexism-detection)
+Multilingual transformer-based NLP research exploring soft-label learning from
+annotator disagreement for sexism detection.

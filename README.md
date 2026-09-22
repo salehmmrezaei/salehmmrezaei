@@ -8,9 +8,7 @@ computer vision, and full-stack AI engineering.
 
 ## Currently Building
 
-**RepoPilot AI** — an AI-powered codebase engineering system for repository
-understanding, hybrid retrieval, grounded question answering, and eventually
-validated code changes.
+**RepoPilot AI** — a production-oriented AI codebase assistant for repository ingestion, indexing, retrieval, and grounded code understanding. Currently expanding its retrieval and agentic engineering capabilities.
 
 ## Focus Areas
 

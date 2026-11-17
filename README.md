@@ -32,4 +32,4 @@ I specialize in **Generative AI, Large Language Models (LLMs), Retrieval-Augment
 
 - 🌐 **Portfolio:** [salehmmrezaei.com](https://salehmmrezaei.com)
 - 💼 **LinkedIn:** [linkedin.com/in/salehmmrezaei](https://www.linkedin.com/in/salehmmrezaei)
-- 💻 **GitHub:** [github.com/salehmmrezaei](https://github.com/salehmmrezaei)
+- 📧 **Email:** [salehmmrezaei@gmail.com](mailto:salehmmrezaei@gmail.com)
